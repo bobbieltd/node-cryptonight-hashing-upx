@@ -1,7 +1,7 @@
 {
-    "name": "cryptonight-hashing",
+    "name": "cryptonight-hashing-upx",
     "version": "9.0.2",
-    "main": "cryptonight-hashing",
+    "main": "cryptonight-hashing-upx",
     "author": {
         "name": "Multiple",
         "email": "Check The Git Repo"
